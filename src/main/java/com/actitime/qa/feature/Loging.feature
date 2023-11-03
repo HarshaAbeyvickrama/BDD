@@ -11,5 +11,5 @@ Feature: As a uesr I should be loging to the Actitime
     Then User should be able to successfuly loging to Actitime
     Examples: 
       | username  | password | 
-      | admin |manager | 
+      | 2019is003@stu.ucsc.cmb.ac.lk |harsha@98 |
       | trainee |trainee| 
